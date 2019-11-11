@@ -99,7 +99,7 @@ main {
 }
 .block-6 {
   grid-area: aside;
-  margin: 1vmin 0.5vmin;
+  margin: .5vmin;
   text-align: center;
   background-color: darkcyan;
 }
@@ -116,7 +116,7 @@ nav a:hover {
 }
 .block-7 {
   min-height: 50px;
-  margin: 1vmin 0.5vmin;
+  margin: .5vmin;
   text-align: center;
   background-color: darkblue;
 }
